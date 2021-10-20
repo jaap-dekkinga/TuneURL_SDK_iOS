@@ -1,4 +1,0 @@
-framework module TuneURL {
-  header "TuneURL-Swift.h"
-  requires objc
-}

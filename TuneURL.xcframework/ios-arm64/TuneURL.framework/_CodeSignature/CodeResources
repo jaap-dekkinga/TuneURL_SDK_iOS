@@ -8,13 +8,13 @@
 		<data>
 		6uvbqpWMIoE3hq8udEbFP6tnezA=
 		</data>
-		<key>Headers/TuneURL_SDK_.h</key>
+		<key>Headers/TuneURL.h</key>
 		<data>
-		jTlaaFzzcRoncqQ4GkXQSVrPxoM=
+		AjS3CFenWIgNFzdAMbAC+Sl6nqU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ef4K43z0h1h2uzYouvvdApujYsc=
+		B5T9l0ReuoMdNhxQCfrsAHD0+WQ=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		WafqRMbJMQ8U3SIwlLMDNf82syA=
+		As9CfXE11WbPOwnRa4MkgTgSRmA=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		tS5MZxHkqvrur2zPHf+PKeA2q0k=
+		0vb24sO9CVVDC6vmhVGjIDLf8tQ=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,15 +34,15 @@
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		WafqRMbJMQ8U3SIwlLMDNf82syA=
+		As9CfXE11WbPOwnRa4MkgTgSRmA=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		tS5MZxHkqvrur2zPHf+PKeA2q0k=
+		0vb24sO9CVVDC6vmhVGjIDLf8tQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Bhbl3YxHlX3tPN4wA3+OIbLa2t0=
+		SoJeY+v99Lb/oa8AJcU4T06eGn4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -54,11 +54,11 @@
 			2dNIUaMkQ7Kk0npmB63wpXYyfX5CSqzz0dNzuSV13RY=
 			</data>
 		</dict>
-		<key>Headers/TuneURL_SDK_.h</key>
+		<key>Headers/TuneURL.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/Mj4DaewjKUUWONrx6+19igtbmhJT7qMma3xtXuWn0s=
+			YkBhMcHCr33YBPyQhi0DaJzSnRzseTbJ1KwXTvIGzMk=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D22mdRERhvbwL3fBwiyYO2otbFB/8JJ+yE8u+4qatkE=
+			KThfAYzS9iA19vwkyWFdpfyioR2I61zI7x+Vaw1tMhA=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			81sG2jday4RUkoVgHTLQZO2enlcGvcuWHoZAbGn8Cg4=
+			XwCxwI0wPwzbudJtdFrrIebVXa5+4CjK7NXOxnKmwLA=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftdoc</key>
@@ -93,21 +93,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D22mdRERhvbwL3fBwiyYO2otbFB/8JJ+yE8u+4qatkE=
+			KThfAYzS9iA19vwkyWFdpfyioR2I61zI7x+Vaw1tMhA=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			81sG2jday4RUkoVgHTLQZO2enlcGvcuWHoZAbGn8Cg4=
+			XwCxwI0wPwzbudJtdFrrIebVXa5+4CjK7NXOxnKmwLA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XgfrTfY7K5yZxfSZKMJTZQTVl1QLDyKm1mqVU9A3Zak=
+			QdKqnywcFlGBMEhCQukqyxJm2CWpkDg/inq1aUbCaIo=
 			</data>
 		</dict>
 	</dict>
