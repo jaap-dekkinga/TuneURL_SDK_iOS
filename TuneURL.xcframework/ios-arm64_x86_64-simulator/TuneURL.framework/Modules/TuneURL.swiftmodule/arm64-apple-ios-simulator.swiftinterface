@@ -4,11 +4,25 @@
 import AVFoundation
 import Alamofire
 import AudioToolbox
-import Fingerprint
+import Fingerprint_Private
 import Foundation
 import Swift
 @_exported import TuneURL
 import _Concurrency
+@_hasMissingDesignatedInitializers public class Listener {
+  public typealias AudioBufferHandler = (AVFAudio.AVAudioPCMBuffer) -> Swift.Void
+  public typealias MatchHandler = (TuneURL.MatchResponse) -> Swift.Void
+  public static var isListening: Swift.Bool {
+    get
+  }
+  public static var audioBufferDelegate: TuneURL.Listener.AudioBufferHandler? {
+    get
+    set
+  }
+  public static func startListening(matchHandler: @escaping (TuneURL.MatchResponse) -> Swift.Void)
+  public static func stopListening()
+  @objc deinit
+}
 public class MatchResponse : Swift.Codable {
   final public let description: Swift.String
   final public let id: Swift.Int
@@ -20,18 +34,4 @@ public class MatchResponse : Swift.Codable {
   public func prettyDescription() -> Swift.String
   @objc deinit
   public func encode(to encoder: Swift.Encoder) throws
-}
-@_hasMissingDesignatedInitializers public class TuneURL {
-  public typealias AudioBufferHandler = (AVFAudio.AVAudioPCMBuffer) -> Swift.Void
-  public typealias MatchHandler = (TuneURL.MatchResponse) -> Swift.Void
-  public static var isListening: Swift.Bool {
-    get
-  }
-  public static var audioBufferDelegate: TuneURL.TuneURL.AudioBufferHandler? {
-    get
-    set
-  }
-  public static func startListening(matchHandler: @escaping (TuneURL.MatchResponse) -> Swift.Void)
-  public static func stopListening()
-  @objc deinit
 }
