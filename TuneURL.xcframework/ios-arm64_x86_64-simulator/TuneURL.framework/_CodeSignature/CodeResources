@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TuneURL-Swift.h</key>
 		<data>
-		BJhXyabPbpRJS6G6iGVOxSQP+Ks=
+		RSSaOycSOhUj/W8TG5Gv5wgVtmk=
 		</data>
 		<key>Headers/TuneURL.h</key>
 		<data>
@@ -14,55 +14,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TPjKER+WxeW6pa+cVAMhzOwVTzg=
+		ggLRZ2SmqtRKr8PCYKsICKyK6eE=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		GmeFJyiAx2BM9T0tVuYlX9u0zsc=
+		JxjmmnJBTwcGNv3qlu/3X44UnCA=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2cAFNuXzbNVKKkPxAWms7aAb9eU=
+		gicrxfwMw1oN4Yj7A/ePBCeFL50=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		F70zZERudhjhxwxNIFyk7YQniJs=
+		2WT6LXLZp1cChp/cO1qb32F4eWY=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		GmeFJyiAx2BM9T0tVuYlX9u0zsc=
+		JxjmmnJBTwcGNv3qlu/3X44UnCA=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		2cAFNuXzbNVKKkPxAWms7aAb9eU=
+		gicrxfwMw1oN4Yj7A/ePBCeFL50=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		F70zZERudhjhxwxNIFyk7YQniJs=
+		2WT6LXLZp1cChp/cO1qb32F4eWY=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		a2cFfXTVmSSNzCajdVM3OGqMCwk=
+		tOPt0aZpHMS1mGwKr6GMEj/vrZg=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		dW1AicjBKeCFpn5XXfID5Pa05DQ=
+		EwazeaO0MphZt9PPKfal1T1C68I=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Z4/m0iRpduZjeaDovSPb2JRlSVc=
+		7FIDVByXy1JGRm9/gRHB1VNE33c=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		a2cFfXTVmSSNzCajdVM3OGqMCwk=
+		tOPt0aZpHMS1mGwKr6GMEj/vrZg=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		dW1AicjBKeCFpn5XXfID5Pa05DQ=
+		EwazeaO0MphZt9PPKfal1T1C68I=
 		</data>
 		<key>Modules/TuneURL.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Z4/m0iRpduZjeaDovSPb2JRlSVc=
+		7FIDVByXy1JGRm9/gRHB1VNE33c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VHhGgDEqcKYKymFbouk5piDSEVZrihkdFMqJIUsr9F8=
+			3l0W5WND48SS2Sm8WaQmR561IaYc+OE7kynnPrEjQ9c=
 			</data>
 		</dict>
 		<key>Headers/TuneURL.h</key>
@@ -89,84 +89,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IRQ1CCjharp/Pox0e0kVuKCXoeSolaS7ioLz+UdoSio=
+			4IOVyNH3DDBQ+hdZP0uLMhHBVJUjHbVhdabbTwYMknM=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pEPjkSARe3LaJDhWP2qKOUyNK91LNP3ZsW+MrqoCRDc=
+			YjYBLU1mqkz2Y8MYMUtyfDyuHuLrd0gBrayUptcu9R4=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sp4pu+15Q2yx6pCRrMYi9AdJ51NVDh4IEfxZMIQm7C8=
+			bzv7BLpc3GEnzUgMPiVkKd8ad2PqdK1WM/SCOm5Z0XM=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IRQ1CCjharp/Pox0e0kVuKCXoeSolaS7ioLz+UdoSio=
+			4IOVyNH3DDBQ+hdZP0uLMhHBVJUjHbVhdabbTwYMknM=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pEPjkSARe3LaJDhWP2qKOUyNK91LNP3ZsW+MrqoCRDc=
+			YjYBLU1mqkz2Y8MYMUtyfDyuHuLrd0gBrayUptcu9R4=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sp4pu+15Q2yx6pCRrMYi9AdJ51NVDh4IEfxZMIQm7C8=
+			bzv7BLpc3GEnzUgMPiVkKd8ad2PqdK1WM/SCOm5Z0XM=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S1KnqkJY2T8jiRzmCYPQ/PMiIlq1nMvu4eUnc9uwwTY=
+			2h2iNPVxJVNu5hTKhnBy5i5NCjEeM/joIiuRWhG5y6k=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E9IIyhDdmWO1GJZ4Ksn6CgEJV8elH0K8L4DI8Nfkoy8=
+			YdcXWjMXzovK70feKEtzpHsuAVA6recxcqDdDJzgcRg=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VUG0uOPO4qGOxUkTIo4aKlzSW+G/1YxHLFqVqRoC1hg=
+			dmj3E8fUxCSs5YwmEfF2Pr+mS1mq8ybfyV1HFCipDhA=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S1KnqkJY2T8jiRzmCYPQ/PMiIlq1nMvu4eUnc9uwwTY=
+			2h2iNPVxJVNu5hTKhnBy5i5NCjEeM/joIiuRWhG5y6k=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			E9IIyhDdmWO1GJZ4Ksn6CgEJV8elH0K8L4DI8Nfkoy8=
+			YdcXWjMXzovK70feKEtzpHsuAVA6recxcqDdDJzgcRg=
 			</data>
 		</dict>
 		<key>Modules/TuneURL.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VUG0uOPO4qGOxUkTIo4aKlzSW+G/1YxHLFqVqRoC1hg=
+			dmj3E8fUxCSs5YwmEfF2Pr+mS1mq8ybfyV1HFCipDhA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

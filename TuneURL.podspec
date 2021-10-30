@@ -8,11 +8,11 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TuneURL'
-  s.version          = '1.0.2'
+  s.version          = '1.1.0'
   s.summary          = 'TuneURL iOS SDK'
 
   s.description      = <<-DESC
-The TuneURL SDK integrates real-time listening for audio hyperlinks to your app.
+The TuneURL SDK adds audio hyperlinks to your app.
                        DESC
 
   s.homepage         = 'https://github.com/jaap-dekkinga/TuneURL_SDK'
@@ -26,5 +26,4 @@ The TuneURL SDK integrates real-time listening for audio hyperlinks to your app.
   s.ios.vendored_frameworks = 'TuneURL.xcframework'
   s.swift_version = '5.0'
   s.frameworks = 'Accelerate', 'AVFoundation'
-  s.dependency 'Alamofire', '~> 4.9.0'
 end
